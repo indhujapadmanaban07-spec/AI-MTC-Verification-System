@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+reportlab
+google-generativeai
+python-dotenv
+pdf2image
+pytesseract
+Pillow
+fpdf
+
+bcrypt
